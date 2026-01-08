@@ -8,6 +8,7 @@ Site: [https://stackblitz.com](https://stackblitz.com)
 * [Phase 2: Add Dependencies (Material)](./phase-02.md)
 * [Phase 3: Use a Button](./phase-03.md)
 * [Phase 4: Move Search to a Component](./phase-04.md)
+* [Phase 5: Create an API Service](./phase-05)
 
 The API Key will be emailed to all students that request it. Send the request to [bob+tcg@code-squid.com](mailto:bob+tcg@code-squid.com)
 
