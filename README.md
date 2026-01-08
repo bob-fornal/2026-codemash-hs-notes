@@ -10,3 +10,8 @@ Site: [https://stackblitz.com](https://stackblitz.com)
 * [Phase 4: Move Search to a Component](./phase-04.md)
 
 The API Key will be emailed to all students that request it. Send the request to [bob+tcg@code-squid.com](mailto:bob+tcg@code-squid.com)
+
+## Notes
+
+* [Pokemon TCG](https://dev.pokemontcg.io/)
+* 
