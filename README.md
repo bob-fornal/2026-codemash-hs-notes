@@ -11,8 +11,3 @@ Site: [https://stackblitz.com](https://stackblitz.com)
 * [Phase 5: Create an API Service](./phase-05)
 
 The API Key will be emailed to all students that request it. Send the request to [bob+tcg@code-squid.com](mailto:bob+tcg@code-squid.com)
-
-## Notes
-
-* [Pokemon TCG](https://dev.pokemontcg.io/)
-* 
