@@ -10,3 +10,7 @@ Site: [https://stackblitz.com](https://stackblitz.com)
 * [Phase 4: Move Search to a Component](./phase-04.md)
 * [Phase 5: Create an API Service](./phase-05.md)
 * [Phase 6: Create a search bar](./phase-06.md)
+
+## Notes
+
+* [Material](https://material.angular.dev/components/categories)
