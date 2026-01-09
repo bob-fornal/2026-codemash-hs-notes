@@ -40,7 +40,7 @@ export class SearchComponent {
     <mat-label>Pokemon Name</mat-label>
     <input
       matInput
-      placeholder="Ex. Dark Abra"
+      placeholder="Ex. Dark Alakazam"
       [(ngModel)]="searchName"
       name="searchNameInput"
     />
