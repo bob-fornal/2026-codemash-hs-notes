@@ -11,6 +11,7 @@ Site: [https://stackblitz.com](https://stackblitz.com)
 * [Phase 5: Create an API Service](./phase-05.md)
 * [Phase 6: Create a search bar](./phase-06.md)
 * [Phase 7: Connect the search bar to the API Service correctly](./phase-07.md)
+* [Phase 8: Create and utilize a Card Component](./phase-08.md)
 
 ## Notes
 
