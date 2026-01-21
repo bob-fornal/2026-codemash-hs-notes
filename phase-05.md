@@ -121,7 +121,7 @@ export interface SetObject {
 }
 ```
 
-4. Create a folder under `src` called `services`.
+4. Create a folder under `src/core` called `services`.
 5. Create a file `api-service.ts`.
 
 Here's what the `api-service.ts` file should look like.
@@ -166,6 +166,14 @@ export class ApiService {
 ```
 
 6. In the `search-component.ts` file, add the following code.
+
+Add import for ApiService ...
+
+```typescript
+import { ApiService } from '../../core/services/api-service';
+```
+
+Add this code.
 
 ```typescipt
   constructor(apiService: ApiService) {
