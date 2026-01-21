@@ -62,10 +62,10 @@ export interface CardObject {
     unlimited: string;
   }>;
   regulationMark: string;
-  images: Array<{
+  images: {
     small: string;
     large: string;
-  }>;
+  };
   tcgplayer: Array<{
     url: string;
     updatedAt: string;
