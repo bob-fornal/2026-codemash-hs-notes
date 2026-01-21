@@ -28,7 +28,7 @@
   <img
     class="card-image"
     mat-card-image
-    [src]="card.images[0].small"
+    [src]="card.images.small"
     [alt]="'Photo of a ' + card.name"
   />
 </mat-card>
