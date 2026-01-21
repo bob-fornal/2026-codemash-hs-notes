@@ -1,6 +1,6 @@
 ## Phase 4: Move Search to a Component
 
-Create a folder, `scr\pages`. Then, create a folder inside that called `search`.
+Create a folder, `src\pages`. Then, create a folder inside that called `search`.
 
 You will want three files:
 
